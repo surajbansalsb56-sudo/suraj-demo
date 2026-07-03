@@ -1,4 +1,4 @@
 # suraj-demo
 This is my first repository.
 <br>
-Author - Suraj( First Project )
+Author - Suraj Bansal
